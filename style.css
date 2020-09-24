@@ -1,0 +1,51 @@
+body {
+    background: rgb(115, 61, 240);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: rgb(246, 215, 39);
+    text-align: center;
+}
+
+section {
+    background: rgb(246, 215, 39);
+    border-radius: 10px;
+    padding: 15px;
+    width: 540px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.411);
+    text-align: center;
+    font-weight: bold;  
+}
+
+#fnum {
+    border: 2px solid black;
+}
+
+select#flista {
+    border: 2px solid black;
+    width: 160px;
+}
+
+#bta, #bti {
+    border: 2px solid black;
+    border-radius: 10px;
+    font: normal 16px arial;
+    font-weight: bold;
+}
+
+#bti {
+    height: 30px;
+    width: 75px;
+    text-align: center;
+    font: normal 18px arial;
+    font-weight: bold;    
+}
+
+footer {
+    color: rgb(246, 215, 39);
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
